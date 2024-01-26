@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Test #7</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="messages">Messages</string>
+    <string name="dashboard">DashBoard</string>
+    <string name="notifications">Notifications</string>
+    <string name="calendar">Calendar</string>
+    <string name="statistics">Statistics</string>
+    <string name="settings">Settings</string>
+    <string name="amanda_rachel">Amanda Rachel</string>
+    <string name="amandarachel_email_com">amandarachel@email.com</string>
+    <string name="fyneen">Fyneen</string>
+    <string name="aleksandre_toria">Aleksandre Toria</string>
+    <string name="aleksandretoria1_gmail_com">aleksandretoria1@gmail.com</string>
+    <string name="dark_mode">Dark Mode\u0020\u0020\u0020</string>
+</resources>
